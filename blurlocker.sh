@@ -5,7 +5,8 @@ RES=1366x768
 # Location for temporary lockscreen wallpaper
 TMPBG=/tmp/screen.png
 # Location of the logo you want
-LOCK=~/Pictures/arch.png
+LOCK=~/blurlocker/arch.png
+
 
 # Screenshot current screen
 scrot -o $TMPBG
